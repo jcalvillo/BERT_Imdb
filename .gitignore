@@ -1,0 +1,16 @@
+### MacOS ###
+*.DS_Store*
+
+
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+### BERT Models ###
+cased_L-12_H-768_A-12
+cased_L-24_H-1024_A-16
+uncased_L-12_H-768_A-12
+uncased_L-24_H-1024_A-16
+
+### Imdb Data ###
+aclImdb
